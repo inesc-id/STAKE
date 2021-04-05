@@ -1,4 +1,4 @@
-# STAKEPrototype
+# STAKE
 STAKE project code - Kevin B. Corrales - advisor Miguel L Pardal
 
 ## What is STAKE?
